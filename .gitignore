@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,c++,cmake,c
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,visualstudiocode,c++,cmake,c
 *.cache
+*.build
 
 ### C ###
 # Prerequisites
