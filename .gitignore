@@ -4,6 +4,10 @@
 *.build
 *.vscode
 
+# ignore the build directory
+build/
+.vscode/
+
 ### C ###
 # Prerequisites
 *.d
