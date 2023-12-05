@@ -5,3 +5,4 @@ project(AdventOfCode2023)
 
 # Add subdirectories for each day
 add_subdirectory(day01)
+add_subdirectory(day02)

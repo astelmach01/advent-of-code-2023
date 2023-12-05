@@ -1,5 +1,3 @@
-from curses.ascii import isdigit
-import enum
 from pathlib import Path
 
 ROOT_DIR = Path(__name__).parent.resolve()
